@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/manasvalleti" target="blank"><img src="https://img.shields.io/twitter/follow/manasvalleti?logo=twitter&style=for-the-badge" alt="manasvalleti" /></a> </p>
 
-- 🌱 I’m currently learning **Git and GitHub**
+- 🌱 I’m currently learning **DNS and Kubernetees**
 
 - 🤝 I’m looking for help with **DevOps**
 
